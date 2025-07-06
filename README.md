@@ -12,10 +12,11 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 npx hardhat ignition deploy ./ignition/modules/Lock.js --network sepolia
 
+```
 
-The app has:
+# The app has:
 Metamask connection.
 Voting for candidates with ranked points where a candidate can give upto 3 votes.
 winner option for displying the winner.
 
-```
+
